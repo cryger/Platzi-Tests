@@ -1,0 +1,77 @@
+Los pilares de Figma son:
+Diseño, colaboración, prototipado y sistemas de diseño.
+2.
+Figma está revolucionando el mundo de diseño por:
+Incursiona en el mundo del diseño open-source creando comunidad.
+3.
+¿Dónde se puede crear un archivo nuevo?
+En drafts, recent y dentro de un proyecto.
+4.
+¿En dónde se puede usar Figma?
+En cualquier computador que tenga un explorador.
+5.
+¿Cuáles son los 3 modos de Figma?
+Diseño, animación y presentación.
+6.
+¿Cuántos tipos de retículas existen en Figma?
+7
+7.
+Para generar niveles de profundidad en Figma se usaría:
+Efectos de sombra en los elementos.
+8.
+¿Qué es una máscara?
+Objeto contenedor que limita la visibilidad de los elementos dentro del campo visible del mismo.
+9.
+¿Cuál sería la mejor definición para un estilo en Figma?
+Son todas las propiedades que puedes modificar de un objeto.
+10.
+¿Cuál de las siguientes NO es una operación booleana?
+Addition
+11.
+El comando: command + shift + K, se usa para
+Crear un componente.
+12.
+Un componente se define como:
+Una estructura reutilizable que permite replicarse en instancias.
+13.
+¿Cuál de éstas NO es una modalidad de color?
+HSA
+14.
+Los comentarios en Figma sirven para:
+Incentivar la co-creación de productos con diferentes actores, sin necesidad de que todos editen, pero sí permitiendo sus puntos de vista en hilos.
+15.
+Un prototipo sirve para:
+Enviar las especificaciones técnicas al equipo de desarrollo.
+16.
+Las propiedades de un objeto siempre aparecen:
+A la derecha en el panel de propiedades.
+17.
+Una de las siguientes NO es un parámetro de animación:
+Recursive
+18.
+Las librerías están compuestas por:
+Instancias, componentes y efectos.
+19.
+La base del autolayout es:
+El flex model de CSS.
+20.
+¿Cuáles son las propiedades de un objeto con autolayout?
+Padding, espacio entre elementos, dirección.
+21.
+¿Cuál es el atajo para crear un autolayout?
+Command + shift + A
+22.
+Los límites y las restricciones se pueden aplicar en:
+Frames , auto layout y grupos.
+23.
+Al cambiar algún estilo de color o texto en una instancia de un componente, el comportamiento esperado es:
+La instancia se vuelve en un componente maestro nuevo.
+24.
+La diferencia entre un prototipo hecho con dissolve y uno hecho con Smart Animate consiste en que:
+Smart animate anima cada transición entre objetos, mientras que el dissolve va a tomar todo el frame y disolver la opacidad hasta llegar al siguiente.
+25.
+El versionamiento es un opción de Figma que ayuda a tener una documentación y rastreo del trabajo que se hace en un archivo. Esto se logra:
+Creando versiones auto salvadas o manuales de todo el archivo de manera lineal.
+26.
+Los plugins en Figma permiten expandir las capacidades que tiene la herramienta, y algunos de ellos incluso permiten:
+Todas las opciones.
